@@ -371,25 +371,29 @@ Java · OOP · Encapsulation · Inheritance · Polymorphism · SOLID · Collecti
 ---
 
 
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg"
-       height="180"
-       alt="GitHub Stats"/>
-  <img src="./profile/top-langs.svg"
-       height="180"
-       alt="Top Languages"/>
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Spinto-cloud&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Spinto-cloud&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
 
 
 <h2 align="center">
