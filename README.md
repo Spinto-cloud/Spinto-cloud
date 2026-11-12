@@ -170,7 +170,7 @@ Python · OOP · CRUD Operations · Data Validation · Collections · Inventory 
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)]([REPLACE_WITH_GITHUB_REPOSITORY_URL](https://github.com/Spinto-cloud/gestionar_herramientas_sp.git))
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/gestionar_herramientas_sp.git)
 
 </div>
 
@@ -358,7 +358,7 @@ Java · OOP · Encapsulation · Inheritance · Polymorphism · SOLID · Collecti
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)]([REPLACE_WITH_GITHUB_REPOSITORY_URL](https://github.com/Spinto-cloud/proyecto_pizzeriadonpiccolo_SP.git))
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/proyecto_pizzeriadonpiccolo_SP.git)
 
 </div>
 
