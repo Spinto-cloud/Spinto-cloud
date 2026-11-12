@@ -144,10 +144,6 @@ I enjoy learning new technologies, solving problems, and developing projects tha
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/6-PROJECTS-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/6-TECHNICAL_CHALLENGES-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/1-GROWING_PORTFOLIO-FFB000?style=for-the-badge"/>
-
 </div>
 
 ---
