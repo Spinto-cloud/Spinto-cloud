@@ -170,7 +170,7 @@ Python · OOP · CRUD Operations · Data Validation · Collections · Inventory 
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)]([REPLACE_WITH_GITHUB_REPOSITORY_URL](https://github.com/Spinto-cloud/gestionar_herramientas_sp.git))
 
 </div>
 
@@ -200,7 +200,7 @@ Semantic HTML5 · CSS3 · Flexbox · CSS Grid · Media Queries · Keyframe Anima
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/patitasfelices_proyectosp.git)
 
 </div>
 
@@ -231,7 +231,7 @@ Vanilla JavaScript · DOM Manipulation · Fetch API · Async/Await · LocalStora
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/proyectojsrutassegurasSP.git)
 
 </div>
 
@@ -273,7 +273,7 @@ Workflow Automation · n8n · Telegram Bot API · Google Sheets Integration · J
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/SPdeliverybot.git)
 
 </div>
 
@@ -311,7 +311,7 @@ MySQL 8.0 · DDL · DML · DQL · JOIN · GROUP BY · HAVING · Subqueries · Ag
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Spinto-cloud/proyecto_pizzeriadonpiccolo_SP.git)
 
 </div>
 
@@ -358,7 +358,7 @@ Java · OOP · Encapsulation · Inheritance · Polymorphism · SOLID · Collecti
 
 <div align="right">
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](REPLACE_WITH_GITHUB_REPOSITORY_URL)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)]([REPLACE_WITH_GITHUB_REPOSITORY_URL](https://github.com/Spinto-cloud/proyecto_pizzeriadonpiccolo_SP.git))
 
 </div>
 
