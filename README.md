@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner-github.png"
+  <img src="./banner-github.png"
        width="100%"
        alt="Sergio Pinto - Software Developer">
 </p>
