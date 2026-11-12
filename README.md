@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="./assets/banner-github.png"
+       width="100%"
+       alt="Sergio Pinto - Software Developer">
+</p>
+
 <!-- ================================================= -->
 <!--              SERGIO PINTO - PROFILE               -->
 <!-- ================================================= -->
